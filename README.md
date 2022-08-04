@@ -9,8 +9,7 @@ Venho estudando desenvolvimento web há um ano e hoje sou Desenvolvedor Full Sta
 *   🌍  Resido em Natal - RN
 *   ✉️  Você pode me chamar por aqui: [matheusvitalds@gmail.com](mailto:matheusvitalds@gmail.com)
 *   🧠  Atualmente estou aprendendo MongoDB
-*   ⚡  Sou um ótimo dançarino, mas isso é segredo
-### Skills<p align="left">
+*   ⚡  Sou um ótimo dançarino, mas isso é segredo### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
