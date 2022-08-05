@@ -4,7 +4,7 @@ Olá 👋 Me chamo Matheus Vital
 Web Developer
 -------------
 
-Venho estudando desenvolvimento web há um ano e hoje sou Desenvolvedor Full Stack. Além de programar, descobri uma nova paixão por liderança, gestão, comunicação e ajudar pessoas. Durante alguns projetos em grupo fui reconhecido pelas minhas Soft Skills e por isso, hoje, além de programar, quero fazer parte da trilha de outras pessoas, ajudando-as a se desenvolverem e alcançarem seus objetivos.
+Venho estudando desenvolvimento web há um ano e hoje sou Desenvolvedor Full Stack. Durante alguns projetos em grupo fui reconhecido pelas minhas Soft Skills e por isso, hoje, além de programar, quero fazer parte da trilha de outras pessoas, ajudando-as a se desenvolverem e alcançarem seus objetivos.
 
 *   🌍  Resido em Natal - RN
 *   ✉️  Você pode me chamar por aqui: [matheusvitalds@gmail.com](mailto:matheusvitalds@gmail.com)
