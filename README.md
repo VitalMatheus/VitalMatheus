@@ -1,14 +1,14 @@
 Olá 👋 Me chamo Matheus Vital
 ==============================
 
-Web Developer
--------------
+Desenvolvedor Web Full Stack
+-----------------------------
 
-Venho estudando desenvolvimento web há um ano e hoje sou Desenvolvedor Full Stack. Durante alguns projetos em grupo fui reconhecido pelas minhas Soft Skills e por isso, hoje, além de programar, quero fazer parte da trilha de outras pessoas, ajudando-as a se desenvolverem e alcançarem seus objetivos.
+Sou bacharel em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte e Desenvolvedor Web Full Stack pela Trybe. Durante o curso de programação realizei alguns projetos em grupo e fui reconhecido pelas minhas Soft Skills. Por isso, hoje, além de programar, quero fazer parte da trilha de outras pessoas, ajudando-as a se desenvolverem e alcançarem seus objetivos.
 
 *   🌍  Resido em Natal - RN
 *   ✉️  Você pode me chamar por aqui: [matheusvitalds@gmail.com](mailto:matheusvitalds@gmail.com)
-*   🧠  Atualmente estou aprendendo MongoDB
+*   🧠  Atualmente trabalho em um projeto com React, Node, Typescript e React Native
 *   ⚡  Sou um ótimo dançarino, mas isso é segredo
 
 ### Skills<p align="left">
